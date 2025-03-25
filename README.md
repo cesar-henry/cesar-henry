@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# My name is Cesar Henry de Paula!
+
+- I recently graduated from Cal Poly Pomona with my bachelor's degree in Computer Science!
+- I am currently working towards becoming a software engineer!
+
+- 📫 How to reach me:
+  - Email: cdepaula942@gmail.com
+  - LinkedIn: https://www.linkedin.com/in/cesarhenrydepaula/
